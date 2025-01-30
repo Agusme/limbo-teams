@@ -26,7 +26,7 @@ Este proyecto fue desarrollado como parte de una prueba técnica para evaluar mi
 - **Bootstrap** para la maquetación y diseño.
 - **AOS** para las animaciones.
 - **SCSS** para los estilos.
-- **JavaScript** para mayor seguridad en el código.
+- **TypeScript** para mayor seguridad en el código.
 - Código limpio y bien organizado.
 
 ## Instalación
@@ -67,7 +67,7 @@ Se implementó la funcionalidad de paginación con los botones "Anterior" y "Sig
 - **Bootstrap** (CSS Framework)
 - **AOS** (Animaciones)
 - **SCSS**
-- **JavaScript**
+- **TypeScript**
 
 ## Enlaces
 - [Repositorio en GitHub](https://github.com/Agusme/limbo-teams.git)
