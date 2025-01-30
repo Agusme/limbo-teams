@@ -67,7 +67,7 @@ Se implementó la funcionalidad de paginación con los botones "Anterior" y "Sig
 - **Bootstrap** (CSS Framework)
 - **AOS** (Animaciones)
 - **SCSS**
-- **TypeScript**
+- **JavaScript**
 
 ## Enlaces
 - [Repositorio en GitHub](https://github.com/Agusme/limbo-teams.git)
