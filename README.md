@@ -21,12 +21,12 @@ Este proyecto fue desarrollado como parte de una prueba técnica para evaluar mi
 
 ## Requisitos Técnicos
 
-- **React.js** 
-- **Vite** 
-- **Bootstrap** 
-- **AOS** 
-- **SCSS** 
-- **JavaScript** 
+- **React.js** con Hooks.
+- **Vite** como bundler.
+- **Bootstrap** para la maquetación y diseño.
+- **AOS** para las animaciones.
+- **SCSS** para los estilos.
+- **JavaScript** para mayor seguridad en el código.
 - Código limpio y bien organizado.
 
 ## Instalación
@@ -67,7 +67,7 @@ Se implementó la funcionalidad de paginación con los botones "Anterior" y "Sig
 - **Bootstrap** (CSS Framework)
 - **AOS** (Animaciones)
 - **SCSS**
-- **TypeScript**
+- **JavaScript**
 
 ## Enlaces
 - [Repositorio en GitHub](https://github.com/Agusme/limbo-teams.git)
