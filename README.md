@@ -71,6 +71,7 @@ Se implementó la funcionalidad de paginación con los botones "Anterior" y "Sig
 
 ## Enlaces
 - [Repositorio en GitHub](https://github.com/Agusme/limbo-teams.git)
+- [Deploy en Netlify](https://limbo-teams.netlify.app/)
 
 ## Autora:
 - 👩🏽‍💻[Agustina Mena](https://www.linkedin.com/in/agustina-mena-169298204/)
