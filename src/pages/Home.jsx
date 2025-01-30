@@ -19,7 +19,7 @@ const Home = () => {
       >
         <div className="d-flex justify-content-center align-items-center flex-column w-100">
           <h1
-            className="display-4 text-center"
+            className="display-4 text-center my-4"
             data-aos="zoom-in"
             data-aos-duration="1000"
             data-aos-delay="200"

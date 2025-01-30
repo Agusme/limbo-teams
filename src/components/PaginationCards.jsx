@@ -17,7 +17,7 @@ const PaginationCards = ({ currentPage, totalPages, onPageChange }) => {
   }
   return (
     <div className="mt-5 text-center">
-      <Pagination className="justify-content-center">
+      <Pagination className="justify-content-center" size="sm">
         <Pagination.Prev
           onClick={() => onPageChange(currentPage - 1)}
           disabled={currentPage === 1}
