@@ -34,7 +34,7 @@ Este proyecto fue desarrollado como parte de una prueba técnica para evaluar mi
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/Agusme/limbo-teams.git
 
 2. **Instalar las dependencias**:
 
@@ -70,7 +70,7 @@ Se implementó la funcionalidad de paginación con los botones "Anterior" y "Sig
 - **TypeScript**
 
 ## Enlaces
-- [Repositorio en GitHub](https://github.com/)
+- [Repositorio en GitHub](https://github.com/Agusme/limbo-teams.git)
 
 ## Autora:
-- [Agustina Mena](https://www.linkedin.com/in/agustina-mena-169298204/)
+- 👩🏽‍💻[Agustina Mena](https://www.linkedin.com/in/agustina-mena-169298204/)
